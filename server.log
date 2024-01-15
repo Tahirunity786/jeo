@@ -1,0 +1,59 @@
+Watching for file changes with StatReloader
+[01/Nov/2023 22:49:39] "GET / HTTP/1.1" 200 4911
+[01/Nov/2023 22:49:39] "GET /static/login/login.css HTTP/1.1" 304 0
+Not Found: /apple-touch-icon.png
+[01/Nov/2023 22:51:00] "GET /apple-touch-icon.png HTTP/1.1" 404 5236
+Not Found: /favicon.ico
+[01/Nov/2023 22:51:00] "GET /favicon.ico HTTP/1.1" 404 5209
+[01/Nov/2023 22:51:00] "GET / HTTP/1.1" 200 4911
+Not Found: /apple-touch-icon.png
+[01/Nov/2023 22:51:00] "GET /apple-touch-icon.png HTTP/1.1" 404 5236
+[01/Nov/2023 22:51:00] "GET / HTTP/1.1" 200 4911
+Not Found: /apple-touch-icon-precomposed.png
+[01/Nov/2023 22:51:00] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 5272
+Not Found: /favicon.ico
+[01/Nov/2023 22:51:00] "GET /favicon.ico HTTP/1.1" 404 5209
+Not Found: /apple-touch-icon-precomposed.png
+[01/Nov/2023 22:51:00] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 5272
+Not Found: /favicon.ico
+[01/Nov/2023 22:51:45] "GET /favicon.ico HTTP/1.1" 404 5209
+Not Found: /apple-touch-icon.png
+[01/Nov/2023 22:51:45] "GET /apple-touch-icon.png HTTP/1.1" 404 5236
+Not Found: /apple-touch-icon-precomposed.png
+[01/Nov/2023 22:51:45] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 5272
+[01/Nov/2023 22:51:45] "GET / HTTP/1.1" 200 4911
+[01/Nov/2023 22:56:26] "GET / HTTP/1.1" 200 4911
+Not Found: /apple-touch-icon-precomposed.png
+[01/Nov/2023 22:56:26] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 5272
+Not Found: /apple-touch-icon.png
+[01/Nov/2023 22:56:26] "GET /apple-touch-icon.png HTTP/1.1" 404 5236
+Not Found: /favicon.ico
+[01/Nov/2023 22:56:26] "GET /favicon.ico HTTP/1.1" 404 5209
+Not Found: /apple-touch-icon.png
+[01/Nov/2023 22:56:26] "GET /apple-touch-icon.png HTTP/1.1" 404 5236
+[01/Nov/2023 22:56:26] "GET / HTTP/1.1" 200 4911
+Not Found: /apple-touch-icon-precomposed.png
+[01/Nov/2023 22:56:26] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 5272
+Not Found: /favicon.ico
+[01/Nov/2023 22:56:26] "GET /favicon.ico HTTP/1.1" 404 5209
+[01/Nov/2023 23:00:52] "GET / HTTP/1.1" 200 4911
+[01/Nov/2023 23:00:52] "GET /static/login/login.css HTTP/1.1" 200 3270
+[01/Nov/2023 23:01:07] "POST / HTTP/1.1" 302 0
+[01/Nov/2023 23:01:08] "GET /home/ HTTP/1.1" 200 6732
+[01/Nov/2023 23:01:09] "GET /static/first/lib/owlcarousel/assets/owl.carousel.mi.css HTTP/1.1" 404 1906
+[01/Nov/2023 23:01:09] "GET /static/first/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css HTTP/1.1" 200 9060
+[01/Nov/2023 23:01:09] "GET /static/first/css/style.css HTTP/1.1" 200 5323
+[01/Nov/2023 23:01:09] "GET /static/first/img/user.webp HTTP/1.1" 200 1434
+[01/Nov/2023 23:01:09] "GET /static/first/img/Untitled%20design.png HTTP/1.1" 200 16856
+[01/Nov/2023 23:01:09] "GET /static/first/css/bootstrap.min.css HTTP/1.1" 200 164122
+[01/Nov/2023 23:01:09] "GET /static/first/lib/easing/easing.min.js HTTP/1.1" 200 2302
+[01/Nov/2023 23:01:10] "GET /static/first/lib/waypoints/waypoints.min.js HTTP/1.1" 200 9028
+[01/Nov/2023 23:01:10] "GET /static/first/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 42766
+[01/Nov/2023 23:01:10] "GET /static/first/lib/chart/chart.min.js HTTP/1.1" 200 194890
+[01/Nov/2023 23:01:10] "GET /static/first/lib/tempusdominus/js/moment-timezone.min.js HTTP/1.1" 200 32832
+[01/Nov/2023 23:01:10] "GET /static/first/lib/tempusdominus/js/moment.min.js HTTP/1.1" 200 326657
+[01/Nov/2023 23:01:10] "GET /static/first/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js HTTP/1.1" 200 56879
+[01/Nov/2023 23:01:10] "GET /static/first/js/main.js HTTP/1.1" 200 5700
+[01/Nov/2023 23:01:14] "GET /setfinder/ HTTP/1.1" 200 38818
+[01/Nov/2023 23:01:14] "GET /static/first/lib/owlcarousel/assets/owl.carousel.mi.css HTTP/1.1" 404 1906
+[01/Nov/2023 23:01:41] "POST /upload_file/ HTTP/1.1" 200 1586462
